@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mcore">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/mcore.jar!/" />
+    </SOURCES>
+  </library>
+</component>

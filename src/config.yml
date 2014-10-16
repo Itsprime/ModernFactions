@@ -1,0 +1,10 @@
+chat_prefix: "&7[&bModernFactions&7] "
+menu_slots: 9
+faction_builds:
+   house:
+     schematic_name: house
+     item_name: &cHouse
+     item_id: 2
+     cost: 5.0
+     item_lore:
+     - '&aCost: &c$5'

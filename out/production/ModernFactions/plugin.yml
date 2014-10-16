@@ -1,0 +1,13 @@
+main: com.xenojava.modernfactions.ModernFactions
+name: ModernFactions
+version: 1.0
+depend: [Factions, Vault, WorldEdit, mcore]
+website: www.XenoJava.com
+author: Xeno
+description:
+         All rights reserved by XenoJava.com
+
+permissions:
+  modernfactions.access:
+    default: op
+    description: Modern factions permission
